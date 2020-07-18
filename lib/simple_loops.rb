@@ -26,6 +26,8 @@ def return_string_array(array)
   end 
 end 
 
+# or new_array << array[count].to_s
+
 #array = [5, 4, 3, 2, 1]
   #array = array.to_s
   
