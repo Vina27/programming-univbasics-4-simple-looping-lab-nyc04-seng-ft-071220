@@ -20,5 +20,5 @@ end
 def return_string_array(array)
   array = [5, 4, 3, 2, 1]
   array = array.to_s
- array = "#{array}".to_i
+ "#{array}".to_i
 end 
